@@ -1,0 +1,11 @@
+{
+    "reminder-2": {
+        "task": "call mom",
+        "time": "07:30 AM"
+    },
+    "reminder-3": {
+        "task": "go gym",
+        "time": "06:00 PM",
+        "recurring": null
+    }
+}
